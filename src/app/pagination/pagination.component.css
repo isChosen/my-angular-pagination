@@ -1,0 +1,9 @@
+.table_wrapper {
+    border: 1px solid #369;
+}
+.has-text-centered {
+    text-align: right;
+}
+.my-pagination /deep/ .ngx-pagination .current {
+    background: #666;
+}
